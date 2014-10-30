@@ -36,7 +36,10 @@ body {
   background: #d33682;
   text-shadow: none; }
 
-
+.reveal p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 
 /*********************************************
  * HEADERS
